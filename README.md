@@ -22,5 +22,12 @@ Summary of useful tools for development.
 ## Kubernetes
 
 - kubectl alias: https://github.com/kubermatic/fubectl
+- kind - kubernetes in docker for local development: https://github.com/kubernetes-sigs/kind
 
 ## Learning
+
+ - https://www.katacoda.com/learn
+
+## Network
+
+- OSI-Model: https://cohesive.net/2017/09/4-things-everyone-should-know-about-network-layers.html
