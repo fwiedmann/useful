@@ -27,6 +27,9 @@ Summary of useful tools for development.
 ## Learning
 
  - https://www.katacoda.com/learn
+ 
+## Virtual Machine
+- Container Machines - Containers that look like Virtual Machines https://github.com/weaveworks/footloose
 
 ## Network
 
