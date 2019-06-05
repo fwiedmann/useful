@@ -4,30 +4,38 @@ Summary of useful tools for development.
 
 ## Viusal Studio Code Extensions
 
-- Code Spell Checker
-- Docker
-- GitLens
-- Go
-- markdownlint
-- Palenight Theme
-- shellcheck
-- YAML
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+- [Clodu Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode)
+- [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+- [remote ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
 
 ## Terminal
 
-- standard terminal: terminator: https://wiki.ubuntuusers.de/Terminator/
-- terminator themes: https://github.com/EliverLara/terminator-themes
-- fzf is a general-purpose command-line fuzzy finder: https://github.com/junegunn/fzf
+- standard terminal: [terminator](https://wiki.ubuntuusers.de/Terminator/)
+- [terminator themes](https://github.com/EliverLara/terminator-themes)
+- [fzf](https://github.com/junegunn/fzf) is a general-purpose command-line fuzzy finder
+
+## Utils/Tools
+
+- [mkcert](https://github.com/FiloSottile/mkcert) create local ca-authority and tls certificates
+- [code-server](https://github.com/cdr/code-server) run VS Code on a remote server
 
 ## Kubernetes
 
-- kubectl alias: https://github.com/kubermatic/fubectl
-- kind - kubernetes in docker for local development: https://github.com/kubernetes-sigs/kind
+- [kubectl alias](https://github.com/kubermatic/fubectl)
+- [kind](https://github.com/kubernetes-sigs/kind) kubernetes in docker for local development
+- [k3s + k3d](https://github.com/rancher/k3d)
 
 ## Learning
 
  - https://www.katacoda.com/learn
- 
+
 ## Virtual Machine
 - Container Machines - Containers that look like Virtual Machines https://github.com/weaveworks/footloose
 
