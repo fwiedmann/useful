@@ -32,6 +32,7 @@ Summary of useful tools for development.
 - [kind](https://github.com/kubernetes-sigs/kind) kubernetes in docker for local development
 - [k3s + k3d](https://github.com/rancher/k3d)
 - [stern](https://github.com/wercker/stern) debugging several pods
+- [kubefwd](https://github.com/txn2/kubefwd) forward kubernetes services to localhost
 
 ## Learning
 
