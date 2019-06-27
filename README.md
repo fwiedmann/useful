@@ -31,6 +31,7 @@ Summary of useful tools for development.
 - [kubectl alias](https://github.com/kubermatic/fubectl)
 - [kind](https://github.com/kubernetes-sigs/kind) kubernetes in docker for local development
 - [k3s + k3d](https://github.com/rancher/k3d)
+- [stern](https://github.com/wercker/stern) debugging several pods
 
 ## Learning
 
