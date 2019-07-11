@@ -34,6 +34,10 @@ Summary of useful tools for development.
 - [stern](https://github.com/wercker/stern) debugging several pods
 - [kubefwd](https://github.com/txn2/kubefwd) forward kubernetes services to localhost
 
+## Monitoring
+- [Container Monitoring cAdvisor](https://github.com/google/cadvisor)
+- [Prometheus Node Exporter](https://github.com/prometheus/node_exporter)
+
 ## Learning
 
  - https://www.katacoda.com/learn
