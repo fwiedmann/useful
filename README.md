@@ -37,6 +37,7 @@ Summary of useful tools for development.
 ## Monitoring
 - [Container Monitoring cAdvisor](https://github.com/google/cadvisor)
 - [Prometheus Node Exporter](https://github.com/prometheus/node_exporter)
+- [Prometheus alert rules collection](https://awesome-prometheus-alerts.grep.to/)
 
 ## Learning
 
