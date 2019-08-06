@@ -33,6 +33,7 @@ Summary of useful tools for development.
 - [k3s + k3d](https://github.com/rancher/k3d)
 - [stern](https://github.com/wercker/stern) debugging several pods
 - [kubefwd](https://github.com/txn2/kubefwd) forward kubernetes services to localhost
+- [kubesec](https://kubesec.io/) scan kubernetes manifests
 
 ## Monitoring
 - [Container Monitoring cAdvisor](https://github.com/google/cadvisor)
