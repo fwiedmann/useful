@@ -11,7 +11,7 @@ Summary of useful tools for development.
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [shellcheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck)
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
-- [Clodu Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode)
+- [Cloud Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode)
 - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
 - [remark](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-remark)
 - [remote ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
