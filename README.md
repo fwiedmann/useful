@@ -43,6 +43,12 @@ Summary of useful tools for development.
 - [Prometheus Node Exporter](https://github.com/prometheus/node_exporter)
 - [Prometheus alert rules collection](https://awesome-prometheus-alerts.grep.to/)
 
+## Security
+- [Clair local scan](https://github.com/arminc/clair-local-scan)
+- [Trivy](https://github.com/aquasecurity/trivy)
+- [OWSAP Dependency checker](https://github.com/jeremylong/DependencyCheck)
+- [ZAP](https://github.com/zaproxy/zaproxy)
+
 ## Learning
 
  - https://www.katacoda.com/learn
